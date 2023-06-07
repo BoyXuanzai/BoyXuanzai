@@ -12,8 +12,9 @@ Hello，我是炫，一名热爱技术和开源的24届准前端工程师，就�
 
 ### 努力努力再努力✨✨✨
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BoyXuanzai&show_icons=true&theme=dark&count_private=true)  \
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyXuanzai&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyXuanzai&theme=dark&layout=compact)  \
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BoyXuanzai&show_icons=true&theme=dark&count_private=true)
+
 
 
 
