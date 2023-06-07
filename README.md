@@ -25,7 +25,8 @@ Hello，我是炫，一名热爱技术和开源的24届准前端工程师，就�
   - 这是我的个人语雀博客：点击进入
   - 这是我的牛客：点击进入
   - 喜欢钻研前端工程化解决方案，热爱开源
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BoyXuanzai&show_icons=true&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoyXuanzai" /> </div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BoyXuanzai&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyXuanzai&theme=dark&layout=compact)
+
 
 
